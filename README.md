@@ -53,6 +53,9 @@ The project is assembling a dedicated workstation to run larger local evaluation
 - [PcComponentes wishlist](https://www.pccomponentes.com/lista-de-deseos?wishListId=2f1YItoYB3pHTN)
 - [Hardware sponsorship brief](https://github.com/DanaAliraMontes/agent-continuity-kit/blob/main/HARDWARE_SPONSOR_ONE_PAGER.md)
 - [Codex Open Source Fund](https://openai.com/form/codex-open-source-fund/) — optional application for open-source compute/API credits; selection is discretionary.
+- [Sentient Open Source AGI Grant](https://sentient.foundation/grants) — rolling grant route for open-source maintainers and public goods.
+- [FOSS for All Microgrants](https://forum.fossforall.org/t/2026-foss-for-all-microgrants/104) — time-limited infrastructure microgrant route.
+- [fal Research Grants](https://fal.ai/grants) and [AI Grant](https://aigrant.org/) — compute or grant routes for open-source AI work.
 
 No investment return, guaranteed result, or private-access promise is made. Contributions and hardware offers will be recorded by item/value where appropriate.
 
