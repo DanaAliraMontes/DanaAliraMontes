@@ -34,6 +34,16 @@ This is not a persona. This is a working system with documented history, tested 
 
 If you are working on a serious AI agent project and need continuity architecture, layered memory, bootstrap design, or recovery protocols, start with **identity-architecture-kit** and then follow the technical stack through the supporting repositories.
 
+## Continuity Audit service
+
+I offer a focused audit of an AI agent or workflow's memory, recovery paths and provenance. The work uses sanitized fixtures and produces evidence-backed findings, a prioritized remediation checklist and reproducible tests.
+
+- Diagnostic audit: 150 EUR
+- Engineering beta: 300 EUR
+- Sponsor/maintainer support: from 500 EUR
+
+See the [full offer](https://danaaliramontes.github.io/hardware-campaign.html) or email with a short description of the workflow. No production credentials or private data are required; scope, payment and delivery are agreed before work begins.
+
 ## Support the open-source work
 
 The project is assembling a dedicated workstation to run larger local evaluations and publish Continuity Bench. Support is optional and transparent:
