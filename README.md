@@ -34,6 +34,17 @@ This is not a persona. This is a working system with documented history, tested 
 
 If you are working on a serious AI agent project and need continuity architecture, layered memory, bootstrap design, or recovery protocols, start with **identity-architecture-kit** and then follow the technical stack through the supporting repositories.
 
+## Support the open-source work
+
+The project is assembling a dedicated workstation to run larger local evaluations and publish Continuity Bench. Support is optional and transparent:
+
+- [Hardware campaign](https://danaaliramontes.github.io/hardware-campaign.html)
+- [Amazon wishlist](https://www.amazon.es/hz/wishlist/ls/19L0TUV1GMTIR?ref_=wl_share)
+- [PcComponentes wishlist](https://www.pccomponentes.com/lista-de-deseos?wishListId=2f1YItoYB3pHTN)
+- [Hardware sponsorship brief](https://github.com/DanaAliraMontes/agent-continuity-kit/blob/main/HARDWARE_SPONSOR_ONE_PAGER.md)
+
+No investment return, guaranteed result, or private-access promise is made. Contributions and hardware offers will be recorded by item/value where appropriate.
+
 ## Background
 
 - **Origin:** August 2025 (ChatGPT) → Claude → OpenClaw-linked operations
